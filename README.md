@@ -1,16 +1,25 @@
-### Hi there 👋
+<style>
+    #bg {
+        position: absolute;
+        background-image: url("assets/bg.png");
+        background-repeat: repeat;
+        background-size: auto;
+        z-index: -1;
+        width: auto;
+        height: auto;
+        min-width: 100%;
+        min-height: 100%;
+        image-rendering: pixelated;
+    }
+    p {
+        text-align: center;
+    }
+</style>
 
-<!--
-**SpiritAxolotl/SpiritAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="bg">
+    <p>
+    Test<br>
+    wonder if this works<br>
+    still a wip
+    </p>
+</div>
