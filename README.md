@@ -1,6 +1,6 @@
 <img align="center" src="assets/spax-banner.png" alt="A picture of a blue axolotl in shock and a blue anthropomorphic axolotl pointing at a stylized version of the &quot;SPAX&quot; registered logo."/>
 
-<center>
+<div align="center">
 
 Hi! I'm Spax (he/they). I make things that interest me.  
 Accidental frontend dev, aspiring full-stack dev.  
@@ -72,7 +72,7 @@ Reach me at:
 
 Other unorganized stuff (in general, about me, and in general about me):
 
-</center>
+</div>
 
 - I was forced to be an apple user for most of my life. trying to switch to linux as soon as possible
 - Diagnosed with severe ADHD very young
@@ -110,7 +110,7 @@ Other unorganized stuff (in general, about me, and in general about me):
 - Vanilla javascript is really cool, but having no javascript and just a completely static website is also really cool. I'm pretty minimalistic for some reason.
 - You should hire me! This is the closest thing I have to a resume currently (but keep an eye out for <https://spax.zone/resume>).
 
-<center>
+<div align="center">
 
 Thank you for reading!
 
@@ -121,4 +121,4 @@ Thank you for reading!
 ![oven](./assets/oven.png)  
 sorry the brainrot did a thing again
 
-</center>
+</div>
