@@ -49,7 +49,7 @@ Reach me at:
 [<img alt="Discord" width="32px" src="https://api.iconify.design/skill-icons:discord.svg?&height=32" />][discord]
 [<img alt="Cohost" width="32px" src="https://api.iconify.design/tabler:brand-cohost.svg?color=%2383254F&height=32" />][cohost]
 [<img alt="Twitter" width="32px" src="https://api.iconify.design/skill-icons:twitter.svg?height=32" />][twitter]
-[<img alt="YouTube" width="32px" src="https://api.iconify.design/bo:youtube.svg?height=32" />][youtube]
+[<img alt="YouTube" width="32px" src="https://api.iconify.design/bi:youtube.svg?color=%23ea3323&height=32" />][youtube]
 
 <details>
 <summary>Useful links that I enjoy</summary>
