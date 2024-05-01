@@ -73,7 +73,7 @@ Reach me at:
 </div>
 
 <details>
-<summary align="center">Other unorganized stuff (in general, about me, and in general about me):</summary>
+<summary align="center">Other unorganized stuff (in general, about me, and in general about me)</summary>
 
 - I was forced to be an apple user for most of my life. trying to switch to linux as soon as possible
 - Diagnosed with severe ADHD very young
