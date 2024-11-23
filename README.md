@@ -77,9 +77,7 @@ Reach me at:
 </details>
 <br>
 
-</div>
-
-<details align="center">
+<details>
 <summary>Other unorganized stuff (in general, about me, and in general about me)</summary>
 <div align="left">
 
@@ -122,7 +120,6 @@ Reach me at:
 </div>
 </details>
 <br>
-<div align="center">
 
 Thank you for reading!
 
