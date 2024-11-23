@@ -51,8 +51,8 @@ Reach me at:
 [<img alt="Twitter" width="32px" src="https://api.iconify.design/skill-icons:twitter.svg?height=32" />][twitter]
 [<img alt="YouTube" width="32px" src="https://api.iconify.design/bi:youtube.svg?color=%23ea3323&height=32" />][youtube]
 
-> [!NOTE]
-> My friend requests are currently full on Discord, so if you need to
+> NOTE ABOUT DISCORD:  
+> My friend requests are currently full, so if you need to
 > reach me on there, you can temporarily
 > [join my discord server](https://spax.zone/discord).  
 > Sorry!
