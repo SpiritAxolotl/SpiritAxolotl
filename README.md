@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi! I'm Spax (he/they). I make things that interest me.  
+Hi! I'm Spax (they/them). I make things that interest me.  
 Accidental frontend dev, aspiring full-stack dev.  
 Axolotls are pretty cool <img alt="axolotl emoji" width="16px" src="./assets/axolotl.png">
 
